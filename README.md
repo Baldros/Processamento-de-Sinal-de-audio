@@ -1,2 +1,3 @@
-# Processamento-de-Sinal-de-audio
-O objetivo desse repositório é conter materiais construídos no processo de aprendizado sobre processamento de sinal de áudio para aprendizado de máquina.
+# Apresentação:
+Como alguém com um pezinho na área da música, saber fazer um processamento e análise de sinal de áudio sempre me chamou minha atenção.
+O objetivo aqui é construir um repositporio com os materiais de estudos sobre esse tipo de conhecimento.
